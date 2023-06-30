@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=17F7CC&width=435&lines=Hey+folks+👋;I'm+Roman+Gornostayev+🤝;I'm+an+iOS+Developer+💚;I+love+building+amazing+apps+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=17F7CC&width=435&lines=Hey+folks+👋;I'm+Roman+Gornostayev+🤝;I'm+an+iOS+Developer+💚;I+love+building+amazing+apps+👨‍💻.)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate iOS developer from Kazakhstan</h3>
 
@@ -11,7 +11,18 @@
 - 👯 I’m looking to collaborate on iOS Development
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
-- 📫 How to reach me: ... [Telegram](https://t.me/romagornostay)
+- 📫 Reach me via **roman.gornostayev@yandex.ru** or [**T.ME**](https://t.me/romagornostay)
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/romagornostay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="romagornostay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/romagornostay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="romagornostay" height="30" width="40" /></a>
+<a href="https://www.instagram.com/romagornostay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="romagornostay" height="30" width="40" /></a>
+</p>
+
+
 
 
 <h3 align="left">My Tech Stack ⚡<br></h3>
@@ -30,5 +41,3 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a>
 <a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Realm"/> </a>
 
-
-<p align="center">(<a href="#top">back to top</a>)</p>
