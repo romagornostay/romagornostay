@@ -8,7 +8,7 @@
 ### 👋 ![](https://komarev.com/ghpvc/?username=romagornostay&color=brightgreen&label=Hey!!!+Visitor)
 
 - 🔭 I’m currently working on my own Apps
-- 🌱 I’m currently learning Client Server talking 
+- 🌱 I’m currently learning SwiftUI 
 - 👯 I’m looking to collaborate on iOS Development
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
