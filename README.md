@@ -13,6 +13,7 @@
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
 - 📫 Reach me via **roman.gornostayev@yandex.ru** or [**T.ME**](https://t.me/romagornostay)
+- 📄 Wanna know more about my experiences, check out my [**resume**](https://resume.io/r/p7zBTZb2c)
 
 
 
