@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-👋 ![] (https://komarev.com/ghpvc/?username=romagornostay&color=brightgreen&label=Hey!!!+Visitor)
+👋 ![](https://komarev.com/ghpvc/?username=romagornostay&color=brightgreen&label=Hey!!!+Visitor)
 
 - 🔭 I’m currently working on my own Apps
 - 🌱 I’m currently learning SwiftUI 
