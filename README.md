@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=300&color=17F7CC&width=500&lines=Hey+folks+👋;I'm+Roman+Gornostayev+🤝;I'm+an+iOS+Developer+💚;I+love+building+amazing+apps+👨‍💻">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5000&pause=300&color=17F7CC&width=500&lines=Hey+folks+👋;I'm+Roman+Gornostayev+🤝;I'm+an+iOS+Developer+💚;I+love+building+amazing+apps+🧑🏼‍💻">
   </a></h2></a>
 
 <h3 align="center">A passionate iOS developer from Kazakhstan 🇰🇿</h3>
