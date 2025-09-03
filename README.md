@@ -8,9 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=romagornostay&color=brightgreen)
 
 - 🔭 I’m currently working on my own Apps
-- 🌱 I’m currently learning SwiftUI 
+- 🌱 I’m currently learning Metal 
 - 👯 I’m looking to collaborate on iOS Development
-- 🤔 I’m looking for help with my projects
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
 - 📫 Reach me via **romagornostay@gmail.com** or [**T.ME**](https://t.me/romagornostay)
 - 📄 Wanna know more about my experiences, check out my [**resume**](https://drive.google.com/file/d/1ZyUAIyJP-MqCzjza5xk7TWamb7HmO2B9/view?usp=sharing)
